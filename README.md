@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukey - Lucas Tan </h1>
-<h2 align="center"> ⚡ Senior Full Stack JavaScript developer | React.js | Node.js I'm Full-Stack Developer with 8+ years of experience in Sofware Development. (Back-End & Front-End )<h2>
+<h2 align="center"> ⚡ Senior Full Stack JavaScript developer | React.js | Node.js I'm Full-Stack Developer with 7+ years of experience in Sofware Development. (Back-End & Front-End )<h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashlee-Wunsch&label=Profile%20views&color=0e75b6&style=flat" alt="Lukey" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
