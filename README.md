@@ -29,7 +29,7 @@ _Building the future of decentralized systems with cutting-edge hardware optimiz
 
 ### ⚡ **Sui Blockchain**
 
-<img src="assets/Sui.png" alt="Sui Blockchain" width="150" height="200">
+<img src="assets/SUI.png" alt="Sui Blockchain" width="150" height="200">
 *Move Language · Parallel Execution · Web3 Infrastructure*
 
 ### 🏗️ **CPU Architecture**
