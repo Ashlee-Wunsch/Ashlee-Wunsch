@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/Unicorn.gif" width="50px"> Unicron
+  <img src="assets/Unicorn.gif" width="60px"> Unicron
 </h1>
 
 <h3 align="center">Decentralized Systems & Hardware Architecture Engineer</h3>
@@ -10,32 +10,16 @@
 
 ---
 
-### 🛠️ Core Technical Domains
+### 🚀 Tech Stack & Expertise
 
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <img src="assets/Blockchain.gif" width="40"><br>
-      <b>Blockchain</b>
-    </td>
-    <td align="center" width="130">
-      <img src="assets/Bitcoin.gif" width="40"><br>
-      <b>Bitcoin</b>
-    </td>
-    <td align="center" width="130">
-      <img src="assets/Sui.png" width="40"><br>
-      <b>Sui</b>
-    </td>
-    <td align="center" width="130">
-      <img src="assets/CPU.gif" width="40"><br>
-      <b>CPU Arch</b>
-    </td>
-    <td align="center" width="130">
-      <img src="assets/GPU.gif" width="40"><br>
-      <b>GPU Arch</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+| | | |
+|:---:|:---:|:---:|
+| **<img src="assets/Blockchain.gif" width="80"><br>Blockchain** | **<img src="assets/Bitcoin.gif" width="80"><br>Bitcoin** | **<img src="assets/Sui.png" width="80"><br>Sui** |
+| **<img src="assets/CPU.gif" width="80"><br>CPU Architecture** | **<img src="assets/GPU.gif" width="80"><br>GPU Architecture** | |
+
+</div>
 
 ---
 
@@ -61,6 +45,5 @@ I'm always interested in discussing groundbreaking projects at the intersection 
 </p>
 
 <p align="center">
-  <img src="assets/Unicorn.gif" width="20px"> <i>Think decentralized. Build efficiently.</i> <img src="assets/Unicorn.gif" width="20px">
+  <img src="assets/Unicorn.gif" width="30px"> <i>Think decentralized. Build efficiently.</i> <img src="assets/Unicorn.gif" width="30px">
 </p>
-
