@@ -1,4 +1,4 @@
-# Blockchain Security & Engineering
+# Blockchain Security & Mining pool manager & Rust expert
 
 Security-first blockchain researcher and builder with 12+ years of experience across:
 
